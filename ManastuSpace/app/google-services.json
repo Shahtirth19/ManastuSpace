@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "190198356934",
+    "firebase_url": "https://bigbrother-f0f7a-default-rtdb.firebaseio.com",
+    "project_id": "bigbrother-f0f7a",
+    "storage_bucket": "bigbrother-f0f7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190198356934:android:ed6d4038cc89e233f5f0c7",
+        "android_client_info": {
+          "package_name": "com.example.bigbrother"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190198356934-h3uspjk2kk47usajj1svu8a29f1ldq6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7EiLieOCmPrFpqyONl3yQAppScTtebKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190198356934-h3uspjk2kk47usajj1svu8a29f1ldq6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190198356934:android:e5ff48680a232167f5f0c7",
+        "android_client_info": {
+          "package_name": "com.example.manastuspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190198356934-h3uspjk2kk47usajj1svu8a29f1ldq6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7EiLieOCmPrFpqyONl3yQAppScTtebKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190198356934-h3uspjk2kk47usajj1svu8a29f1ldq6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
